@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="QL#%[1!Ija.%N|,]^zhj" x="765" y="0"><statement name="HANDLER"><block type="device_print_message" id="E1~SgqN|g*zvA6gOGD=?"><value name="text"><shadow type="text" id="#1-PK_.c.4D_ls+r02xM"><field name="TEXT">   OMAR</field></shadow></value></block></statement></block><block type="pxt-on-start" id="y$WxbYoU(m@CP`3[Br(H" x="1123" y="-4"><statement name="HANDLER"><block type="device_show_leds" id="b#x4bo(8j29HVV{!g:RT"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></statement></block></xml>
